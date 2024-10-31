@@ -24,15 +24,15 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
+<div>
         <p align="left">
         ✨ Creating bugs since 11yo<br>
         📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>
         🎯 Currently learning machine learning with py
         </p>
-        <p align="right">Owner of <a href="https://github.com/SattrFev">Pixle Networks 🎫</a><br>
-        I love Minecraft and everything about it 🎲<br>
-        Minecraft, Eve Online, NFS, Stardew Valley 🎮
+        <p align="left">Owner of <a href="https://github.com/SattrFev">🎫 Pixle Networks</a><br>
+        🎲 I love Minecraft and everything about it<br>
+        🎮 Minecraft, Eve Online, NFS, Stardew Valley
         </p>
 
 </div>
