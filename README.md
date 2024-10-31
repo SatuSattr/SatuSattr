@@ -4,10 +4,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+<div style="display: flex; justify-content: center; gap: 6px;">
+<img style="margin-top: 4px;" height="143"src="https://cdn.discordapp.com/attachments/1233059679442309196/1301432615810764850/jmd-japanese-cars.gif?ex=67247513&is=67232393&hm=208ba8e24d04258807405e78482652c92926c85339614a1e44e81748298712d3&"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-  </div>
+ </div>
   
 ###
 
@@ -19,11 +20,23 @@
 
 ###
 
-<h2 align="left">Little sight about me</h2>
+<h2 align="left">✌️Little sight about me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 11yo<br>📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>🎯 Currently learning machine learning with py<br>🎮 Minecraft, Eve Online, NFS, Stardew Valley 🌲<br>🎲 I love minecraft and everything about it</p>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 10px;">
+        <p align="left">✨ Creating bugs since 11yo<br>
+        📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>
+        🎯 Currently learning machine learning with py</p>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <p align="right">Owner of <a href="https://github.com/SattrFev">Pixle Networks 🎫</a><br>
+        I love Minecraft and everything about it 🎲<br>
+        Minecraft, Eve Online, NFS, Stardew Valley 🎮 </p>
+    </div>
+</div>
+
 
 ###
 
@@ -67,8 +80,6 @@
   <a href="https://open.spotify.com/user/cw4utmm9fok8bjujngfbpgo5e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5" alt="Spotify recently played" width="45%"/>
   </a>
-  
-  
 </div>
 
 ###
