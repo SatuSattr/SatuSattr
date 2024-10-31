@@ -4,7 +4,7 @@
 
 ###
 
-<div style="display: flex; justify-content: center; gap: 6px;">
+<div align="center" style="display: flex; justify-content: center; gap: 6px;">
 <img style="margin-top: 4px;" height="143"src="https://cdn.discordapp.com/attachments/1233059679442309196/1301432615810764850/jmd-japanese-cars.gif?ex=67247513&is=67232393&hm=208ba8e24d04258807405e78482652c92926c85339614a1e44e81748298712d3&"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
