@@ -24,7 +24,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center; gap: 10rem;">
         <p align="left" style="width: 22rem;">
         ✨ Creating bugs since 11yo<br>
         📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>
