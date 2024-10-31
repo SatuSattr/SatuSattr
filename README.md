@@ -5,9 +5,9 @@
 ###
 
 <div align="center" style="display: flex; justify-content: center; gap: 6px;">
-<img style="margin-top: 1px; border-radius: 5px;" height="128"src="https://cdn.discordapp.com/attachments/1233059679442309196/1301432615810764850/jmd-japanese-cars.gif?ex=67247513&is=67232393&hm=208ba8e24d04258807405e78482652c92926c85339614a1e44e81748298712d3&"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="130" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="130" alt="languages graph"  />
+<img style="margin-top: 1px; border-radius: 5px;" height="138"src="https://cdn.discordapp.com/attachments/1233059679442309196/1301432615810764850/jmd-japanese-cars.gif?ex=67247513&is=67232393&hm=208ba8e24d04258807405e78482652c92926c85339614a1e44e81748298712d3&"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="140" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="140" alt="languages graph"  />
  </div>
   
 ###
