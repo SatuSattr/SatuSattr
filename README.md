@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 11yo<br>📚 I'm a student at School<br>🎯 Currently learning machine learning with py<br>🎲 I love minecraft and everything about it</p>
+<p align="left">✨ Creating bugs since 11yo<br>📚 I'm a student at <a href="https://smkpesat.sch.id/">SMK Informatika Pesat</a><br>🎯 Currently learning machine learning with py<br>🎲 I love minecraft and everything about it</p>
 
 ###
 
