@@ -4,11 +4,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  </div>
+  
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Sattar <br>and I'm a student, from Bogor, Indonesia 🇮🇩</p>
+<p align="left">My name is Sattar⚡<br>and I'm a student, from Bogor, Indonesia 🇮🇩</p>
 
 ###
 
@@ -16,11 +23,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 11yo<br>📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>🎯 Currently learning machine learning with py<br>🎲 I love minecraft and everything about it</p>
+<p align="left">✨ Creating bugs since 11yo<br>📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>🎯 Currently learning machine learning with py<br>🎮 Minecraft, Eve Online, NFS, Stardew Valley 🌲<br>🎲 I love minecraft and everything about it</p>
 
 ###
 
-<h2 align="left">I speak 🗣️</h2>
+<h2 align="left">🗣 I speak️</h2>
 
 ###
 
@@ -36,7 +43,7 @@
 
 ###
 
-<h2 align="left">I code with ⌨️</h2>
+<h2 align="left">⌨️ I code with</h2>
 
 ###
 
@@ -52,14 +59,16 @@
 
 ###
 
-<h2 align="center">My spotify activity 🎧</h2>
+<h2 align="center">🎧 My coding assist</h2>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/cw4utmm9fok8bjujngfbpgo5e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5" alt="Spotify recently played" width="45%"/>
   </a>
+  
+  
 </div>
 
 ###
