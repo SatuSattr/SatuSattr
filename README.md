@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between;">
 <img style="margin-top: 1px; border-radius: 5px;" height="138" src="/aboutme/cars.gif"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="140" alt="stats graph"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SattrFev&show_icons=true&theme=synthwave)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="140" alt="languages graph"  />
  </div>
   
