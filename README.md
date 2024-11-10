@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="180" src="https://cdn.discordapp.com/attachments/1055648482691661926/1301447948651069495/channels4_banner.png?ex=6724835a&is=672331da&hm=5629e7cf27fb800364971b90231ed3106f22cc9a11ab06978e1826a32cd8ebe1&"  />
+  <img height="180" src="/aboutme/shaaa.png"  />
 </div>
 
 ###
 
 <div align="center" style="display: flex; justify-content: space-between;">
-<img style="margin-top: 1px; border-radius: 5px;" height="138"src="https://cdn.discordapp.com/attachments/1233059679442309196/1301432615810764850/jmd-japanese-cars.gif?ex=67247513&is=67232393&hm=208ba8e24d04258807405e78482652c92926c85339614a1e44e81748298712d3&"/>
+<img style="margin-top: 1px; border-radius: 5px;" height="138" src="/aboutme/cars.gif"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SattrFev&theme=dark&hide_border=true" height="140" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SattrFev&theme=dark&show_icons=true&hide_border=true&layout=compact" height="140" alt="languages graph"  />
  </div>
