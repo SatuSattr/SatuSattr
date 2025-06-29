@@ -28,7 +28,7 @@
         <p align="left">
         ✨ Creating bugs since 11yo<br>
         📚 I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>
-        🎯 Currently learning mobile programming with kotlin
+        🎯 Currently learning Bukkit Development for Minecraft purpose with Java
         </p>
         <p align="left">
         🎲 I love Minecraft and everything about it<br>
