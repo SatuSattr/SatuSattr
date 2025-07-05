@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Sattar⚡<br>and I'm a student, from Bogor, Indonesia 🇮🇩</p>
+<p align="left">The name is Sattar.<br>and I'm a student, from Bogor, Indonesia 🇮🇩</p>
 
 ###
 
@@ -40,49 +40,29 @@
 
 ###
 
-<h2 align="left">🗣 I speak️</h2>
+<h2 align="left">🗣 I Speak️</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,java,php,cs,python,kotlin,html,css,dotnet&theme=light)](https://skillicons.dev)
 
 ###
 
-<h2 align="left">⌨️ I code with</h2>
+<h2 align="left">⌨️ I Code With</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea&theme=light)](https://skillicons.dev)
 
 ###
 
-<h2 align="center">🎧 My coding assist</h2>
+<h2 align="center">🎧 My Coding Assist</h2>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/cw4utmm9fok8bjujngfbpgo5e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5" alt="Spotify recently played" width="45%"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5&width=1000)" alt="Spotify recently played"/>
   </a>
 </div>
 
