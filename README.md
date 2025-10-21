@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatuSattr&theme=dark&show_icons=true&hide_border=true&layout=compact" height="140" alt="languages graph"  />
  </div>
 
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ---
@@ -42,6 +41,8 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cw4utmm9fok8bjujngfbpgo5e&count=5&width=1000)" alt="Spotify recently played"/>
   </a>
 </div>
+
+###
 
 ![](https://komarev.com/ghpvc/?username=SattrFev&color=ff69b4&style=flat-square&label=Visitor)
 
