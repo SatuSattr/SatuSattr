@@ -2,11 +2,6 @@
   <img height="180" src="/aboutme/shaaa.png"  />
 </div>
 
-<div align="center" style="display: flex; justify-content: space-between;">
-<img style="margin-top: 1px; border-radius: 5px;" height="138" src="/aboutme/cars.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatuSattr&theme=dark&show_icons=true&hide_border=true&layout=compact" height="140" alt="languages graph"  />
- </div>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ---
