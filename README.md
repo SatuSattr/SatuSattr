@@ -6,7 +6,7 @@
 
 ---
 
-<p align="left">The name is Sattar.<br>and I'm a student, from Bogor, Indonesia 🇮🇩</p>
+<p align="left">The name is Sattar.<br>I'm an indie developer and also student who loves to code projects from ground up<br>that's aiming to solve real-life problems with it</p>
 <h2 align="left">Little sight about me</h2>
 
 <div>
