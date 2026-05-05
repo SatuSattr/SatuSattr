@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="180" src="/aboutme/shaaa.png"  />
-</div>
+</div> -->
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
