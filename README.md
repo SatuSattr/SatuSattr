@@ -19,7 +19,7 @@
 
 <h2 align="left"> My Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,php,cs,python,kotlin,html,css,dotnet,laravel,supabase,tailwind,vercel,postman,vscode,nodejs,idea,arduino,androidstudio,discordjs,opencv,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,php,cs,python,kotlin,html,css,dotnet,flutter,laravel,supabase,tailwind,vercel,postman,vscode,nodejs,idea,arduino,androidstudio,discordjs,opencv,figma&theme=dark)](https://skillicons.dev)
 
 
 ###
