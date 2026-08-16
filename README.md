@@ -11,9 +11,9 @@
 
 <div>
       <p>
-        - Creating bugs since 11yo<br>.
-        - I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat</a><br>.
-        - Currently learning AI agentic development for personal and professional workflows.
+        - Creating bugs since 11yo<br>
+        - I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat.</a><br>
+        - Currently learning AI agentic development for personal and professional workflows.</br>
         - Open for paid projects that catch my attention.
       </p>
 <div>
