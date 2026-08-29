@@ -11,16 +11,16 @@
 
 <div>
       <p>
-        - Creating bugs since 11yo<br>
+        - Creating bugs since 11yo.<br>
         - I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat.</a><br>
-        - Currently learning AI agentic development for personal and professional workflows.</br>
+        - Currently learning AI automation and agentic development for personal and professional workflows.</br>
         - Open for paid projects that catch my attention.
       </p>
 <div>
 
 <h2 align="left"> My Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,discordjs,php,laravel,dart,flutter,cs,dotnet,python,opencv,java,kotlin,androidstudio,html,css,tailwind,supabase,docker,arduino,postman,vscode,idea,figma,claude&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,discordjs,php,laravel,dart,flutter,cs,dotnet,python,opencv,java,kotlin,androidstudio,html,css,tailwind,supabase,docker,arduino,postman,vscode,idea,figma,raspberrypi,cloudflare,debian,ubuntu,windows&theme=dark)](https://skillicons.dev)
 
 
 ###
