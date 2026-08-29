@@ -11,10 +11,10 @@
 
 <div>
       <p>
-        - Creating bugs since 11yo.<br>
-        - I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat.</a><br>
-        - Currently learning AI automation and agentic development for personal and professional workflows.</br>
-        - Open for paid projects that catch my attention.
+        • Creating bugs since 11yo.<br>
+        • I'm a student at <a href="https://smkpesat.sch.id/" target="_blank" rel="noopener noreferrer">SMK Informatika Pesat.</a><br>
+        • Currently learning AI automation and agentic development for personal workflows.</br>
+        • And lately i've been busy building a power efficient home server using Raspberry Pi to host my projects.</br>
       </p>
 <div>
 
